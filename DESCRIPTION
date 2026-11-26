@@ -1,0 +1,10 @@
+Package: pswd
+Title: Partly Shifted Weibull Distribution
+Version: 0.1.0
+Authors@R: person("Piotr", "Sulewski", role = c("aut", "cre"), email = "piotr.sulewski@upsl.edu.pl")
+Description: Probability density, cumulative distribution, reliability, hazard rate, reversed hazard rate, quantile, random generation, moments, Shannon entropy, and parameter estimation (ML, MPS, OLS, WLS, LAW) for the three-parameter Partly Shifted Weibull Distribution (PSWD).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: stats
+Suggests: parallel, openxlsx
+

@@ -1,0 +1,9 @@
+bibentry(
+  bibtype  = "Article",
+  title    = "Partly Shifted Weibull Distribution",
+  author   = person(given = "Piotr", family = "Sulewski"),
+  journal  = "Submitted Manuscript",
+  year     = "2026",
+  url      = "https://github.com",
+  header   = "To cite the 'pswd' R package or the underlying methodology in publications, please use:"
+)

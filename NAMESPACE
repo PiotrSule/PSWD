@@ -1,0 +1,2 @@
+export(calc_C, dPSWD, pPSWD, relPSWD, hPSWD, haPSWD, rhPSWD, qPSWD, rPSWD, mPSWD, shannon_PSWD, fit_PSWD)
+importFrom(stats, integrate, optimize, optim, pweibull, qweibull, runif, uniroot, median, quantile, sd)
